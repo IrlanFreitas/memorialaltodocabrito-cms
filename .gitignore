@@ -1,0 +1,9 @@
+# Versiona apenas o tema customizado (wp-content/themes/memorial-altodocabrito).
+# Núcleo do WordPress, plugins, uploads, configs locais e temas padrão ficam de fora.
+/*
+!/.gitignore
+!/wp-content/
+/wp-content/*
+!/wp-content/themes/
+/wp-content/themes/*
+!/wp-content/themes/memorial-altodocabrito/

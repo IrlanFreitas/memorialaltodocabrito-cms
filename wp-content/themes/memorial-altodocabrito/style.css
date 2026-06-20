@@ -1,0 +1,15 @@
+/*
+Theme Name: Memorial Alto do Cabrito
+Theme URI: https://github.com/irlanfreitas/memorialaltodocabrito
+Author: Irlan Freitas
+Author URI: https://github.com/irlanfreitas
+Description: Tema headless para o Memorial Alto do Cabrito. Expõe Custom Post Types e campos ACF via REST API para o frontend React em /Projetos/MemorialAltodoCabrito. Não renderiza nenhuma interface pública — todo o front-end é servido pelo Vite/React.
+Requires at least: 6.4
+Tested up to: 6.7
+Requires PHP: 8.0
+Version: 1.0.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: memorial-altodocabrito
+Tags: headless, rest-api, custom-post-types, acf
+*/
