@@ -2,6 +2,7 @@
 # Núcleo do WordPress, plugins, uploads, configs locais e temas padrão ficam de fora.
 /*
 !/.gitignore
+!/README.md
 !/wp-content/
 /wp-content/*
 !/wp-content/themes/
